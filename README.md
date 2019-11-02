@@ -4,6 +4,6 @@
 ---
 ### make Image Medical data to text data use OCR 
 
-* binary, Otsu threshold algorithm
+* Binary filter, Otsu threshold algorithm
 * OCR (Optical character recognition)
 * Django (Python Web framework)
